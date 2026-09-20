@@ -1,53 +1,30 @@
-# 🧑‍💻 NexyT [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/)
+# Olá, sou o Carlos 👋
 
-**`CyberSecurity & Data Protection Student`**
+Desenvolvo projetos na área de **segurança informática, proteção de dados e desenvolvimento de software**. Trabalho sobretudo com Python, JavaScript, TypeScript, Java e Lua e gosto de transformar problemas concretos em ferramentas que outras pessoas consigam utilizar.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+Concluí um CTeSP em Segurança e Proteção de Dados para Sistemas de Informação. Aqui reúno projetos pessoais, trabalhos académicos e experiências de desenvolvimento. Quando um projeto é experimental, indico-o na documentação.
 
-Hi, I’m **NexyT**, a CyberSecurity & Data Protection student from **Portugal**.  
-I have ADHD, but with hyperfocus on cybersecurity, I love exploring and learning everything about tech.  
+## Projetos
 
-Passionate about programming from a young age, I love combining languages to create projects that combine security, data, and creativity.  
+| Projeto | O que podes encontrar |
+| :--- | :--- |
+| [RP Academy](https://github.com/NexysT/RP-Academy) | Plataforma web de aprendizagem e avaliação para comunidades de roleplay, desenvolvida com Next.js e TypeScript. |
+| [Lar de Sonho](https://github.com/NexysT/larsonho) | Website académico de demonstração de interfaces de privacidade e escolhas de cookies. |
+| [Twitch Auto Reward Clicker](https://github.com/NexysT/twitchreward) | Ferramenta Python para monitorizar uma área do ecrã e reagir a alterações de cor. |
+| [IA / experiências web](https://github.com/NexysT/IA) | Protótipos em HTML, CSS e JavaScript, incluindo uma roleta demonstrativa. |
 
----
+**CasaFotos:** tenho também um protótipo pessoal de galeria Android com armazenamento num PC Windows. Estou a preparar uma publicação do código sem dados privados nem chaves de assinatura.
 
-### :clipboard: Languages & Technologies
+## O que estou a explorar
 
-![Python](https://img.shields.io/badge/Python-3573A7?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+Segurança de aplicações web, automação, desenvolvimento full-stack, gestão de dados e ferramentas para comunidades online. Interessa-me especialmente compreender o percurso completo de uma aplicação, desde a interface à proteção dos dados.
 
-### 🚀 Tools
+## Tecnologias
 
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+`Python` · `Java` · `JavaScript` · `TypeScript` · `Lua` · `HTML` · `CSS` · `Next.js` · `Git` · `Windows` · `Linux`
 
----
+## Contacto
 
-### 🔗 Portfolio & Discord
+Podes encontrar os meus trabalhos e contactar-me através do próprio [GitHub](https://github.com/NexysT). Se quiseres falar de um projeto específico, abre uma issue no repositório respetivo.
 
-<p align="left">
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=appveyor&logoColor=white" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 📊 The GIF that represents me
-
-<p align="center">
-  <img src="https://tenor.com/pt-PT/view/katze-cat-hasenohren-bunny-ears-gif-24097339.gif" height="500px" width="900px" align="center" alt="xd">
-</p>
-
----
-
-<p align="center">
-  Learning, exploring, and hacking responsibly 💻🔒
-</p>
+<sub>Portugal · Documentação em português europeu</sub>
