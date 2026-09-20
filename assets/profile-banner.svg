@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
+<title id="t">NexysT | Carlos Pereira</title><desc id="d">Banner escuro com tipografia verde e referências a segurança, desenvolvimento e proteção de dados.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1419"/><stop offset="1" stop-color="#122b29"/></linearGradient><linearGradient id="accent"><stop stop-color="#5ef0bd"/><stop offset="1" stop-color="#81c8f9"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7ce1be" stroke-opacity=".08"/></pattern></defs>
+<rect width="1200" height="340" rx="24" fill="url(#bg)"/><rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+<circle cx="1070" cy="55" r="210" fill="#39dca6" opacity=".07"/><circle cx="1110" cy="285" r="115" fill="#89cafa" opacity=".06"/>
+<rect x="64" y="47" width="168" height="30" rx="15" fill="#54d8aa" fill-opacity=".13" stroke="#5ceabc" stroke-opacity=".4"/><text x="84" y="67" fill="#9df2ce" font-family="Arial,sans-serif" font-size="15" font-weight="bold" letter-spacing="2">PORTUGAL  /  DEV</text>
+<text x="64" y="157" fill="#ffffff" font-size="74" font-weight="bold" font-family="Arial,sans-serif">NexysT</text>
+<rect x="64" y="182" width="87" height="5" rx="2.5" fill="url(#accent)"/>
+<text x="64" y="229" fill="#d0e4df" font-size="25" font-family="Arial,sans-serif">Carlos Pereira</text>
+<text x="64" y="272" fill="#9dbbb5" font-size="19" font-family="Arial,sans-serif">Segurança informática   ·   Proteção de dados   ·   Software</text>
+<g transform="translate(804 78)"><rect width="316" height="194" rx="16" fill="#0b1b1d" stroke="#508b80" stroke-opacity=".75"/><circle cx="24" cy="25" r="5" fill="#fb6b6b"/><circle cx="42" cy="25" r="5" fill="#fbd36d"/><circle cx="60" cy="25" r="5" fill="#61deb0"/><path d="M0 45H316" stroke="#508b80" stroke-opacity=".7"/>
+<text x="23" y="78" fill="#72e3b5" font-family="monospace" font-size="17">&gt; whoami</text>
+<text x="23" y="110" fill="#dcebe5" font-family="monospace" font-size="16">curioso + persistente</text>
+<text x="23" y="142" fill="#84c7f2" font-family="monospace" font-size="16">&gt; focus</text>
+<text x="23" y="171" fill="#dcebe5" font-family="monospace" font-size="15">build / secure / learn</text></g></svg>
