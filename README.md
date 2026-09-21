@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/NexysT/twitchreward"><img src="./assets/projects/auto-green-clicker.svg" width="100%" alt="Cartão ilustrado Auto Green Clicker"></a>
+      <a href="https://github.com/NexysT/twitchreward"><img src="./assets/projects/auto-green-clicker-centered.svg" width="100%" alt="Cartão ilustrado Auto Green Clicker"></a>
       <h3><a href="https://github.com/NexysT/twitchreward">Auto Green Clicker ↗</a></h3>
       Aplicação de desktop para experimentar deteção visual e automatização de ações com base nas cores de uma área do ecrã.
       <br><br><code>Python</code> <code>Tkinter</code>
