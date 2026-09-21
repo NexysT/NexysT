@@ -30,7 +30,7 @@
       <br><br><code>Next.js</code> <code>React</code> <code>TypeScript</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/NexysT/larsonho"><img src="./assets/projects/lar-de-sonho.svg" width="100%" alt="Cartão ilustrado Lar de Sonho"></a>
+      <a href="https://github.com/NexysT/larsonho"><img src="./assets/projects/lar-de-sonho-centered.svg" width="100%" alt="Cartão ilustrado Lar de Sonho"></a>
       <h3><a href="https://github.com/NexysT/larsonho">Lar de Sonho ↗</a></h3>
       Trabalho académico centrado na apresentação de informações de privacidade, escolhas de cookies e experiência do utilizador.
       <br><br><code>HTML</code> <code>CSS</code> <code>JavaScript</code>
