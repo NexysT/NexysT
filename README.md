@@ -84,4 +84,4 @@
   <a href="https://github.com/NexysT/CasaFotos/issues"><strong>Falar sobre o CasaFotos</strong></a>
 </p>
 
-<p align="center"><sub>Carlos Pereira · Portugal · Português europeu</sub></p>
+<p align="center"><sub>Carlos Pereira · Portugal</sub></p>
