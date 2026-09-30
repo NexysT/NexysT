@@ -44,10 +44,10 @@
       <br><br><code>Python</code> <code>Tkinter</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/NexysT/IA"><img src="./assets/projects/experiencias-web.svg" width="100%" alt="Cartão ilustrado Experiências Web"></a>
-      <h3><a href="https://github.com/NexysT/IA">Experiências Web ↗</a></h3>
-      Pequenos protótipos de interface e lógica em JavaScript. Algumas experiências estão funcionais; outras continuam em desenvolvimento.
-      <br><br><code>JavaScript</code> <code>HTML</code> <code>CSS</code>
+      <a href="https://github.com/NexysT/MTA/tree/main/PlayerBots"><img src="./assets/projects/playerbots.svg" width="100%" alt="Cartão ilustrado PlayerBots"></a>
+      <h3><a href="https://github.com/NexysT/MTA/tree/main/PlayerBots">PlayerBots ↗</a></h3>
+      Projeto open-source para apresentar jogadores virtuais no browser público do MTA, com versões para Windows x86 e Linux x64 e documentação do processo técnico.
+      <br><br><code>Lua</code> <code>C++</code> <code>CEF</code>
     </td>
   </tr>
 </table>
@@ -67,7 +67,7 @@
 <h2>✦ No meu ambiente de trabalho</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,lua,html,css,nextjs,git,linux,vscode&perline=11" alt="Python, Java, JavaScript, TypeScript, Lua, HTML, CSS, Next.js, Git, Linux e VS Code">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,lua,html,css,nextjs,git,linux,vscode&perline=12" alt="Python, Java, JavaScript, TypeScript, Lua, HTML, CSS, Next.js, Git, Linux e VS Code">
 </p>
 
 <details>
