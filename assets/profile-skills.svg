@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Linguagens e formação complementar</title>
+  <desc id="desc">Linguagens: C++, Lua, Java, Python e TypeScript. Formação complementar: Security Operations Center (SOC), Coursera; Introduction to Cybersecurity, Cisco Networking Academy; GDPR - Regulamento Geral de Proteção de Dados: Formação Básica, LinkedIn.</desc>
+  <rect x="1" y="1" width="1198" height="278" rx="16" fill="#111c22" stroke="#25363c"/>
+  <text x="48" y="48" fill="#81e6ae" font-family="Consolas, monospace" font-size="23" font-weight="500" letter-spacing="1.5">LINGUAGENS</text>
+  <text x="48" y="112" fill="#eff5ef" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="500">C++ · Lua · Java</text>
+  <text x="48" y="166" fill="#eff5ef" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="500">Python · TypeScript</text>
+  <path d="M48 205H92" stroke="#81e6ae" stroke-width="3" stroke-linecap="round"/>
+  <path d="M506 32V248" stroke="#25363c"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="554" y="48" fill="#81e6ae" font-family="Consolas, monospace" font-size="23" font-weight="500" letter-spacing="1.5">FORMAÇÃO COMPLEMENTAR</text>
+    <text x="554" y="90" fill="#eff5ef" font-size="28" font-weight="500">Security Operations Center (SOC)</text>
+    <text x="554" y="116" fill="#a3b8b4" font-size="21">Coursera</text>
+    <text x="554" y="153" fill="#eff5ef" font-size="28" font-weight="500">Introduction to Cybersecurity</text>
+    <text x="554" y="179" fill="#a3b8b4" font-size="21">Cisco Networking Academy</text>
+    <text x="554" y="216" fill="#eff5ef" font-size="28" font-weight="500">RGPD · Formação básica</text>
+    <text x="554" y="242" fill="#a3b8b4" font-size="21">LinkedIn</text>
+  </g>
+</svg>
