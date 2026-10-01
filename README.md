@@ -2,6 +2,7 @@
   <source media="(max-width: 600px)" srcset="./assets/profile-banner-mobile.svg">
   <img src="./assets/profile-banner.svg" alt="NexysT — Carlos Pereira. Native systems, software e segurança." width="100%">
 </picture>
+
 <br>
 
 ### Olá, sou o Carlos.
@@ -9,6 +10,11 @@
 Gosto de transformar ideias em projetos que se consigam abrir, testar e compreender. Quando algo me desperta a curiosidade, gosto de ir perceber o que está por trás.
 
 Concluí um CTeSP em **Segurança e Proteção de Dados para Sistemas de Informação**.
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-skills-mobile.svg">
+  <img src="./assets/profile-skills.svg" alt="Linguagens: C++, Lua, Java, Python e TypeScript. Formação complementar: Security Operations Center (SOC) — Coursera; Introduction to Cybersecurity — Cisco Networking Academy; GDPR - Regulamento Geral de Proteção de Dados: Formação Básica — LinkedIn." width="100%">
+</picture>
 
 <br>
 
@@ -65,4 +71,4 @@ Projeto de **cybersecurity e awareness** orientado à identificação de sinais 
 **Aplicações** · Java / Android, Python, SQLite, TypeScript, React e Next.js.  
 **Segurança** · awareness, segurança de aplicações e proteção de dados.
 
-[Todos os repositórios](https://github.com/NexysT?tab=repositories) · [Demonstração RP Academy](https://rp-academy.vercel.app/) · [Demonstração Lar de Sonho](https://nexyst.github.io/larsonho/)
+[LinkedIn](https://www.linkedin.com/in/carlosdpereira/) · [Todos os repositórios](https://github.com/NexysT?tab=repositories) · [Demonstração RP Academy](https://rp-academy.vercel.app/) · [Demonstração Lar de Sonho](https://nexyst.github.io/larsonho/)
