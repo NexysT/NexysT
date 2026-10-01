@@ -9,12 +9,12 @@
 
 Gosto de transformar ideias em projetos que se consigam abrir, testar e compreender. Quando algo me desperta a curiosidade, gosto de ir perceber o que está por trás.
 
-Concluí um CTeSP em **Segurança e Proteção de Dados para Sistemas de Informação**.
-
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/profile-skills-mobile.svg">
-  <img src="./assets/profile-skills.svg" alt="Linguagens: C++, Lua, Java, Python e TypeScript. Formação complementar: Security Operations Center (SOC) — Coursera; Introduction to Cybersecurity — Cisco Networking Academy; GDPR - Regulamento Geral de Proteção de Dados: Formação Básica — LinkedIn." width="100%">
+  <img src="./assets/profile-skills.svg" alt="Fundamentos em Python, Lua e C. Formação: CTeSP em Segurança e Proteção de Dados para Sistemas de Informação — IPCA, concluído; Security Operations Center (SOC) — Cisco, certificado de curso; Introduction to Cybersecurity — Cisco Networking Academy. Em curso: percurso Analista de Cibersegurança Júnior — Cisco Networking Academy, com Networking Basics como etapa atual." width="100%">
 </picture>
+
+[Certificado SOC ↗](https://coursera.org/verify/CGLTPU6NN599)
 
 <br>
 
@@ -65,7 +65,7 @@ Projeto de **cybersecurity e awareness** orientado à identificação de sinais 
 - **[Auto Green Clicker](https://github.com/NexysT/twitchreward)** — automação visual e deteção de cor no Windows · Python / Tkinter.
 - **[Lar de Sonho](https://github.com/NexysT/larsonho)** — projeto académico sobre privacidade e preferências de cookies · HTML / CSS / JavaScript.
 
-## Áreas técnicas
+## Áreas dos projetos
 
 **Sistemas nativos** · C++, Lua, hooking, debugging e análise de ABI em Windows / Linux.  
 **Aplicações** · Java / Android, Python, SQLite, TypeScript, React e Next.js.  
