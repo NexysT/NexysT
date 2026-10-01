@@ -2,9 +2,15 @@
   <source media="(max-width: 600px)" srcset="./assets/profile-banner-mobile.svg">
   <img src="./assets/profile-banner.svg" alt="NexysT — Carlos Pereira. Native systems, software e segurança." width="100%">
 </picture>
+<br>
 
-Sou o Carlos, **NexysT**. Trabalho entre módulos nativos, aplicações pessoais e segurança informática.
-Gosto de perceber o que acontece por baixo da interface e de ligar esse trabalho a problemas concretos. Concluí um CTeSP em Segurança e Proteção de Dados para Sistemas de Informação.
+### Olá, sou o Carlos.
+
+Gosto de transformar ideias em projetos que se consigam abrir, testar e compreender. Quando algo me desperta a curiosidade, gosto de ir perceber o que está por trás.
+
+Concluí um CTeSP em **Segurança e Proteção de Dados para Sistemas de Informação**.
+
+<br>
 
 ## Projetos em destaque
 
