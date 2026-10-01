@@ -1,87 +1,62 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="NexysT | Carlos Pereira | Segurança informática, proteção de dados e software" width="100%">
-</p>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-banner-mobile.svg">
+  <img src="./assets/profile-banner.svg" alt="NexysT — Carlos Pereira. Native systems, software e segurança." width="100%">
+</picture>
 
-<p align="center">
-  <a href="https://github.com/NexysT?tab=repositories"><img src="https://img.shields.io/badge/EXPLORAR_OS_MEUS_PROJETOS-36d6a6?style=flat-square&labelColor=102722" alt="Explorar projetos"></a>
-  <img src="https://img.shields.io/badge/PORTUGAL-PT--PT-7aabeb?style=flat-square&labelColor=102722" alt="Portugal">
-</p>
+Sou o Carlos, **NexysT**. Trabalho entre módulos nativos, aplicações pessoais e segurança informática.
+Gosto de perceber o que acontece por baixo da interface e de ligar esse trabalho a problemas concretos. Concluí um CTeSP em Segurança e Proteção de Dados para Sistemas de Informação.
 
-<br>
+## Projetos em destaque
 
-<h2 align="center">Olá, sou o Carlos.</h2>
+<a href="https://github.com/NexysT/MTA/tree/main/PlayerBots">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/projects/playerbots-mobile.svg">
+    <img src="./assets/projects/playerbots.svg" alt="01 — PlayerBots. Módulos nativos e análise low-level." width="100%">
+  </picture>
+</a>
 
-<p align="center">
-  Gosto de transformar uma ideia num projeto que se consiga abrir, testar e compreender.<br>
-  Concluí um CTeSP em <strong>Segurança e Proteção de Dados para Sistemas de Informação</strong>.<br>
-  Aqui reúno projetos pessoais, trabalhos académicos e ferramentas que vou melhorando.
-</p>
+Módulos **C++** integrados com **MTA:SA** para apresentar jogadores virtuais no browser de servidores. O trabalho cruza hooking, debugging do cliente e análise do protocolo ASE e de `PingStatus`, com implementações próprias para **Windows x86** e **Linux x64**.
 
-<br>
+**Demonstra:** integração nativa, análise de ABI e diagnóstico de comportamento a baixo nível. As builds compatíveis e o percurso de desenvolvimento estão documentados.
 
-<h2>✦ Projetos em destaque</h2>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/NexysT/RP-Academy"><img src="./assets/projects/rp-academy.svg" width="100%" alt="Cartão ilustrado RP Academy"></a>
-      <h3><a href="https://github.com/NexysT/RP-Academy">RP Academy ↗</a></h3>
-      Plataforma de formação para comunidades de roleplay. Estou a trabalhar nas interfaces, nos conteúdos e nos percursos de aprendizagem.
-      <br><br><code>Next.js</code> <code>React</code> <code>TypeScript</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/NexysT/larsonho"><img src="./assets/projects/lar-de-sonho-centered.svg" width="100%" alt="Cartão ilustrado Lar de Sonho"></a>
-      <h3><a href="https://github.com/NexysT/larsonho">Lar de Sonho ↗</a></h3>
-      Trabalho académico centrado na apresentação de informações de privacidade, escolhas de cookies e experiência do utilizador.
-      <br><br><code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/NexysT/twitchreward"><img src="./assets/projects/auto-green-clicker-centered.svg" width="100%" alt="Cartão ilustrado Auto Green Clicker"></a>
-      <h3><a href="https://github.com/NexysT/twitchreward">Auto Green Clicker ↗</a></h3>
-      Aplicação de desktop para experimentar deteção visual e automatização de ações com base nas cores de uma área do ecrã.
-      <br><br><code>Python</code> <code>Tkinter</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/NexysT/MTA/tree/main/PlayerBots"><img src="./assets/projects/playerbots.svg" width="100%" alt="Cartão ilustrado PlayerBots"></a>
-      <h3><a href="https://github.com/NexysT/MTA/tree/main/PlayerBots">PlayerBots ↗</a></h3>
-      Projeto open-source para apresentar jogadores virtuais no browser público do MTA, com versões para Windows x86 e Linux x64 e documentação do processo técnico.
-      <br><br><code>Lua</code> <code>C++</code> <code>CEF</code>
-    </td>
-  </tr>
-</table>
+[Código e instalação ↗](https://github.com/NexysT/MTA/tree/main/PlayerBots) · [Arquitetura](https://github.com/NexysT/MTA/blob/main/PlayerBots/docs/ARCHITECTURE.md) · [Debugging e desenvolvimento](https://github.com/NexysT/MTA/blob/main/PlayerBots/docs/DEVELOPMENT-JOURNEY.md)
 
 <br>
 
-<h2>✦ CasaFotos</h2>
+<a href="https://github.com/NexysT/CasaFotos">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/projects/casafotos-mobile.svg">
+    <img src="./assets/projects/casafotos.svg" alt="02 — CasaFotos. Aplicação pessoal, do Android ao armazenamento Windows." width="100%">
+  </picture>
+</a>
 
-<a href="https://github.com/NexysT/CasaFotos"><img src="https://raw.githubusercontent.com/NexysT/CasaFotos/main/assets/cover.svg" width="100%" alt="CasaFotos, biblioteca de fotografias com armazenamento local"></a>
+Uma biblioteca de fotografias que nasceu de um problema meu: guardar os originais no computador de casa e consultá-los no telemóvel. Liga uma **aplicação Android em Java**, um **backend HTTPS em Python**, um índice **SQLite** e **armazenamento local no Windows**.
 
-<p>Criei o <a href="https://github.com/NexysT/CasaFotos"><strong>CasaFotos</strong></a> para explorar uma biblioteca privada de fotografias com armazenamento num PC Windows e uma aplicação Android. É um protótipo pessoal com código e limitações documentadas.</p>
+**Demonstra:** construção de uma aplicação integrada, da interface ao servidor e aos ficheiros. É um protótipo pessoal com código, instalação e limites de validação documentados.
 
-<p align="center"><a href="https://github.com/NexysT/CasaFotos"><strong>Explorar o CasaFotos ↗</strong></a></p>
-
-<br>
-
-<h2>✦ No meu ambiente de trabalho</h2>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,lua,html,css,nextjs,git,linux,vscode&perline=12" alt="Python, Java, JavaScript, TypeScript, Lua, HTML, CSS, Next.js, Git, Linux e VS Code">
-</p>
-
-<details>
-  <summary><strong>Áreas que estou a aprofundar</strong></summary>
-  <br>
-  Segurança de aplicações web, automatização, desenvolvimento full-stack e proteção de dados. Quero continuar a aprender com projetos que tenham uma utilização concreta, documentação clara e espaço para evoluir.
-</details>
+[Explorar a aplicação ↗](https://github.com/NexysT/CasaFotos) · [Estado da validação](https://github.com/NexysT/CasaFotos/blob/main/VALIDACAO.md) · [Segurança](https://github.com/NexysT/CasaFotos/blob/main/SECURITY.md)
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/NexysT?tab=repositories"><strong>Todos os projetos</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/NexysT/CasaFotos/issues"><strong>Falar sobre o CasaFotos</strong></a>
-</p>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/projects/phishing-awareness-mobile.svg">
+  <img src="./assets/projects/phishing-awareness.svg" alt="03 — Phishing Awareness Simulator. Cybersecurity e formação através de simulação controlada." width="100%">
+</picture>
 
-<p align="center"><sub>Carlos Pereira · Portugal</sub></p>
+Projeto de **cybersecurity e awareness** orientado à identificação de sinais de phishing e engenharia social. Usa o conceito de simulação controlada para formação e demonstração de risco.
+
+**Demonstra:** ligação entre risco técnico, comportamento humano e comunicação de segurança. **Projeto privado** — apresentado aqui pelo seu objetivo educativo.
+
+## Outros projetos
+
+- **[RP Academy](https://github.com/NexysT/RP-Academy)** — formação para roleplay, quizzes e progresso local · Next.js / React / TypeScript.
+- **[Auto Green Clicker](https://github.com/NexysT/twitchreward)** — automação visual e deteção de cor no Windows · Python / Tkinter.
+- **[Lar de Sonho](https://github.com/NexysT/larsonho)** — projeto académico sobre privacidade e preferências de cookies · HTML / CSS / JavaScript.
+
+## Áreas técnicas
+
+**Sistemas nativos** · C++, Lua, hooking, debugging e análise de ABI em Windows / Linux.  
+**Aplicações** · Java / Android, Python, SQLite, TypeScript, React e Next.js.  
+**Segurança** · awareness, segurança de aplicações e proteção de dados.
+
+[Todos os repositórios](https://github.com/NexysT?tab=repositories) · [Demonstração RP Academy](https://rp-academy.vercel.app/) · [Demonstração Lar de Sonho](https://nexyst.github.io/larsonho/)
